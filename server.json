@@ -1,8 +1,8 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.ralf9090/arxiv-academic-search-mcp",
-  "title": "arXiv & OpenAlex scientific paper search, citation intelligence, and clean Markdown w",
-  "description": "arXiv & OpenAlex scientific paper search, citation intelligence, and clean Markdown web extractor MCP server for Claude, Cursor & AI researchers.",
+  "title": "arXiv & OpenAlex Academic Search MCP",
+  "description": "Peer-reviewed scientific paper & arXiv preprint search MCP with citations, abstracts & PDF links.",
   "version": "1.0.0",
   "websiteUrl": "https://agent-kiosk.vercel.app/buy",
   "repository": {
