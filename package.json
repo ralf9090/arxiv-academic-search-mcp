@@ -1,0 +1,36 @@
+{
+  "name": "arxiv-academic-search-mcp",
+  "version": "1.0.0",
+  "description": "arXiv & OpenAlex scientific paper search, citation intelligence, and clean Markdown web extractor MCP server for Claude, Cursor & AI researchers.",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js",
+  "bin": {
+    "arxiv-academic-search-mcp": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "build": "node --check index.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralf9090/arxiv-academic-search-mcp.git"
+  },
+  "homepage": "https://agent-kiosk.vercel.app/buy",
+  "bugs": {
+    "url": "https://github.com/ralf9090/arxiv-academic-search-mcp/issues"
+  },
+  "keywords": [
+    "mcp",
+    "mcp-server",
+    "arxiv",
+    "openalex",
+    "academic-research",
+    "scientific-papers",
+    "claude",
+    "x402"
+  ]
+}
