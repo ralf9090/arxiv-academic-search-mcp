@@ -6,7 +6,7 @@
   "type": "module",
   "main": "index.js",
   "bin": {
-    "arxiv-academic-search-mcp": "./index.js"
+    "arxiv-academic-search-mcp": "index.js"
   },
   "scripts": {
     "start": "node index.js",
